@@ -1,0 +1,1 @@
+The SplashScreenManagerService allows you to add the SplashScreenManager functionality to MVVM-compliant applications. This example shows how to use this service.
