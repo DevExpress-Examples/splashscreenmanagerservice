@@ -16,6 +16,7 @@ namespace SplashScreenService.ViewModel {
         }
 
         public void Display() {
+            SplashScreenManagerService.ViewModel = new DXSplashScreenViewModel();
             SplashScreenManagerService.ViewModel.Subtitle = "Powered by DevExpress";
             SplashScreenManagerService.ViewModel.Logo = new Uri("../../Images/Logo.png", UriKind.Relative);
             SplashScreenManagerService.Show();
