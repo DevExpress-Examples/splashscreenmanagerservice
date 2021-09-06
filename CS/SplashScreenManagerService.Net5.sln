@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScreenService", "SplashScreenService.csproj", "{500B6494-2986-41A2-836E-4638CFB6DED7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplashScreenService", "SplashScreenService.Net5.csproj", "{500B6494-2986-41A2-836E-4638CFB6DED7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
