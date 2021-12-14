@@ -1,11 +1,12 @@
-﻿Imports DevExpress.Xpf.Core
+Imports DevExpress.Xpf.Core
 
 Namespace SplashScreenService.View
-	Partial Public Class ThemedSplashScreen
-		Inherits SplashScreenWindow
 
-		Public Sub New()
-			InitializeComponent()
-		End Sub
-	End Class
+    Public Partial Class ThemedSplashScreen
+        Inherits SplashScreenWindow
+
+        Public Sub New()
+            Me.InitializeComponent()
+        End Sub
+    End Class
 End Namespace
