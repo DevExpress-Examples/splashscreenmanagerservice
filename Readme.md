@@ -7,7 +7,7 @@
 # Add SplashScreenManager Functionality to MVVM-based Applications
 The WPF SplashScreenManagerService allows you to add the SplashScreenManager functionality to MVVM-compliant applications. This example shows how to use this service.
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=splashscreenmanagerservice&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=splashscreenmanagerservice&~~~was_helpful=no)
 
